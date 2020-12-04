@@ -5,7 +5,7 @@ Created on Tue Jun  2 10:23:03 2020
 @author: MY PC
 """
 
-ACCESS_TOKEN = "1260859687508955136-4l9GBvoPveIW2ccvHAdYVPbRY3u2E8"
-ACCESS_TOKEN_SECRET = "W2MHTI5odo18eOaVbE9irY6ZY15KLgNJWqNTEz2jiY5Ku"
-CONSUMER_KEY = "sCO8TwhF9rNhPCUGcTbO4lUZi"
-CONSUMER_SECRET = "KfxutcyA5nEklrYtbooQE4AF8mKOJwfVPLd0G3fIGRVVwZ0WNc"
+ACCESS_TOKEN = "12XXXXXXXXXXXXXXxx6-4l9GBvoPxxxxxxxxxxxxxxxxxxPbRY3u2E8"
+ACCESS_TOKEN_SECRET = "W2MHxxxxxxxxxxxxxxxxxxxxxjiY5Ku"
+CONSUMER_KEY = "sCO8TxxxxxxxxxxxxxxxxxxxxxxZi"
+CONSUMER_SECRET = "xxxxxxxxxxxxxxxxxklrxxxxxxxxxxxxxxxxxxxxx0G3fIGRVxxxs"
